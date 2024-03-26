@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rocky-sai
+- 👋 Hi, I’m @Venkateswara rao
 - 👀 I’m interested in analyzing technology.
 - 🌱 I’m currently studying b.tech 2nd year.
 - 💞️ I’m looking to collaborate on programing.
